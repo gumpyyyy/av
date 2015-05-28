@@ -1,0 +1,5 @@
+websockets
+websocket-client
+lxml
+pygal
+xmpp_logging_handler
